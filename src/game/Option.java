@@ -8,5 +8,10 @@ System.out.println("your game is hocky");
 System.out.println("Player name is ");
 System.out.println("Team name is");
 	}
+	
+	public Option(String name)
+	{
+		Option oldOption= new Option ("India");
+	}
 
 }
