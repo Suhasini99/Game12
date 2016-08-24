@@ -8,3 +8,5 @@ System.out.println("your game is hocky");
 	}
 
 }
+//player information
+//you need to add more info
